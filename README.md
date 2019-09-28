@@ -11,6 +11,8 @@ A script that automatically starts mining when user is away from the computer fo
 - Have a break from mining.ahk
 A script that stops mining every so often to let the computer rest (not sure if it's of any use)
 
+- Protect GPU against overheating.py
+Simple python script that shuts off the computer if the GPU temps reach a particular threshold
 
 Notes
 --------
